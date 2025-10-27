@@ -1,4 +1,4 @@
-import teslaLogo from 'figma:asset/24245cd86e53f46dbf4ac2727ae57f8b702696c9.png';
+import teslaLogo from './../assets/24245cd86e53f46dbf4ac2727ae57f8b702696c9.png';
 
 export function CompanyLogos() {
   const logos = [
