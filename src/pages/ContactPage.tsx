@@ -37,7 +37,7 @@ export function ContactPage() {
         },
         body: JSON.stringify({
           // IMPORTANT: Replace with your actual Web3Forms Access Key from https://web3forms.com
-          access_key: "YOUR_WEB3FORMS_ACCESS_KEY_HERE",
+          access_key: "b1b31d3c-7fbe-4774-a8fe-a72719ee4559",
           
           // Form data
           name: `${formData.firstName} ${formData.lastName}`,
